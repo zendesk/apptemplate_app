@@ -1,0 +1,17 @@
+{
+  "app": {
+    "parameters" : {
+          "Custom_Field_ID" : {
+            "label": "Customer Field ID",
+            "helpText": "You can find the Custom Field ID on the ticket field edit page"
+            },
+            "Custom_Field_Default" : {
+              "label" : "Customer Default Value",
+              "helpText": "This has to be a value in the customer dropdown field"
+            }
+            },
+    "description":  "Prepend the subject line with customer name",
+    "name":         "Prepend Subject Line App"
+  },
+  "none": "example text"
+}

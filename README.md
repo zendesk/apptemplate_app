@@ -1,4 +1,5 @@
-apptemplate_app
-===============
+The basic Zendesk App template
+==========
 
-Basic template to create an App
+This is just a empty template for creating apps
+
