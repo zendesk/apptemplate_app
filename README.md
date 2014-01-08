@@ -20,7 +20,7 @@ This template gives a model for how to create a standard Zenlabs App readme.
 * Flashes the ticket sidebar
 * Hide the field when X is true
 
-## Set-up/installation:
+## Set-up/installation instructions:
 
 To install this App, in the settings you will need to enter the following things.
 
@@ -30,7 +30,7 @@ Please describe as precisely as possible and provide code samples if needed.
 
 Pull requests are welcome.
 
-### Screenshot(s):
+## Screenshot(s):
 
 Please use Skitch or CloudApp to upload a screenshot or a GIF. If GIFs are possible they are always better. See LICEcap.
 
